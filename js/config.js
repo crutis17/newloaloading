@@ -24,7 +24,7 @@ Config.serverImage = false;
 // only use .ogg files!
 // put songs on the songs folder, then add them here
 Config.playlist = [
-	{url: "fall of fall.ogg", name: "fall of fall"},
+	{url: "starwarsremix.ogg", name: "star wars remix"},
 	{url: "gardenofmememories.ogg", name: "garden of memories"}
 ];
 
