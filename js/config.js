@@ -66,7 +66,7 @@ Config.backgroundOpacity = 1.0;
 // set this to its filename (eg "background.jpg")
 // (set it false to not use it)
 // default: "blackbackground.jpg"
-Config.backgroundImage = "blackbackground.jpg";
+Config.backgroundImage = "loading.jpg";
 
 // Background rendering fps
 // This can cause a large impact performance-wise
