@@ -25,7 +25,7 @@ Config.serverImage = false;
 // put songs on the songs folder, then add them here
 Config.playlist = [
 	{url: "starwarsremix.ogg", name: "star wars remix"},
-	{url: "gardenofmememories.ogg", name: "garden of memories"}
+	{url: "cantinaband.ogg", name: "cantina band trinix"}
 ];
 
 // Songs volume
@@ -51,7 +51,7 @@ Config.songShuffle = true;
 // "circle"
 //
 // default: "bars"
-Config.background = "circle";
+Config.background = "dualbars";
 
 // Background opacity
 // sets the opacity of the audio visualization
