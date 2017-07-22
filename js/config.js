@@ -51,7 +51,7 @@ Config.songShuffle = true;
 // "circle"
 //
 // default: "bars"
-Config.background = "squares";
+Config.background = "circle";
 
 // Background opacity
 // sets the opacity of the audio visualization
@@ -101,7 +101,9 @@ Config.backgroundColor = "#101010";
 Config.messages = [
 	"Welcome to our server",
 	"Please respect the rules and have fun",
-	"Enjoy the music"
+	"Enjoy the music",
+	"Founder of LOA Networks: llama",
+	"Owner of LOA Networks: Kai"
 ];
 
 // Messages delay (in milliseconds)
