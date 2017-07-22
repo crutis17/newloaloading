@@ -51,7 +51,7 @@ Config.songShuffle = true;
 // "circle"
 //
 // default: "bars"
-Config.background = "quadbars";
+Config.background = "squares";
 
 // Background opacity
 // sets the opacity of the audio visualization
