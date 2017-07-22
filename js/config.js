@@ -66,7 +66,7 @@ Config.backgroundOpacity = 1.0;
 // set this to its filename (eg "background.jpg")
 // (set it false to not use it)
 // default: "blackbackground.jpg"
-Config.backgroundImage = "loading.jpg";
+Config.backgroundImage = "671201351_preview_1c0ddb81c78f5ddbcf6b86fec2d1a072c4fd83b5.jpg";
 
 // Background rendering fps
 // This can cause a large impact performance-wise
@@ -89,7 +89,7 @@ Config.fontColor = "#FFFFFF";
 // Use hexadecimal color values
 // Primary color
 // default: "#00FF9B"
-Config.primaryColor = "#FFFFFF";
+Config.primaryColor = "#00FFFF";
 // Secondary color
 // default: "#21001E"
 Config.secondaryColor = "#21001E";
